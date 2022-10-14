@@ -1,0 +1,45 @@
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('https://wallpapercave.com/wp/3LBX9VI.jpg');
+}
+.h3{
+    font-family: 'Tangerine', cursive;
+    font-size:3em;
+    color: rgb(255, 255, 255) !important;
+
+}
+.h1{
+    font-family: 'Merienda', cursive;
+    font-size:5em;
+    color: rgb(255, 0, 200) !important;
+}
+.img{
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+.text{
+    border: 3px solid #8BEDF3;
+    border-radius: 10px;
+    background-color: black;
+    font-family: 'Tangerine', cursive;
+    font-size:2em;
+    color: rgb(208, 255, 0);
+}
+#style{
+    font-family: 'Rancho', cursive;
+    color: rgb(208, 255, 0);
+}
+p{
+    font-family: 'Merienda', cursive;
+    font-size:2em;
+    color: rgb(2, 255, 14);
+    display: flex;
+    align-items: center;
+
+}
